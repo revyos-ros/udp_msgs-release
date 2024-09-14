@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/udp_msgs-release
+release_repo_url: git@github.com:revyos-ros/udp_msgs-release.git
 tracks:
   dashing:
     actions:
